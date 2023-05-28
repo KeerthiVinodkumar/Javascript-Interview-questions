@@ -5,4 +5,4 @@ function totoldigits(number){
     const digitlength=digits.length
     return digitlength
 }
-console.log(totoldigits(12345));
+console.log(totoldigits(12345)); 
